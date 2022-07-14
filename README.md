@@ -1,8 +1,12 @@
 It is a responsive web page that currrently has a 
   -home page where you can explore top movies
+  
   -responsive logo
+  
   -Breadcrumbs for easy navigation
+  
   -search tab
+  
   -responsive movie icons
   
 the individual movie pages are not completely designed
