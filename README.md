@@ -1,16 +1,12 @@
-It is a responsive web page that currrently has a 
-  -home page where you can explore top movies
+It is a responsive web page that currrently has a                                        
+      --home page where you can explore top movies                       
+      --responsive logo                
+      --Breadcrumbs for easy navigation                                       
+      --search tab                     
+      --responsive movie icons                   
   
-  -responsive logo
-  
-  -Breadcrumbs for easy navigation
-  
-  -search tab
-  
-  -responsive movie icons
-  
-the individual movie pages are not completely designed
-It fetches the data from an API 
+The individual movie pages are not completely designed.                       
+It fetches the data from an API                                  
 In the project directory, you can run:
 
 ### `npm start`
